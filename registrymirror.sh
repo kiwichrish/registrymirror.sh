@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Modify for your own repos.
 SOURCEREPO=s.rd3.nz
 DESTREPO=d.rd3.nz
 
